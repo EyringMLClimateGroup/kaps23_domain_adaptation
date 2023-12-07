@@ -2,6 +2,7 @@ Author: Arndt Kaps (arndt.kaps@dlr.de)
 Adaptation Mateo-Garcia et al (2022) code (https://github.com/IPL-UV/pvl8dagans) for ESACCI/ICON domain adaptation with Wasserstein Cyclegans  
 The results produced with this code are part of the doctoral dissertation of Arndt Kaps (citation will go here)  
 The provided scripts train neural networks to transfer between the domains of climate models and observations and produce plots to quantify the quality of the results.  
+This code is released as [![DOI](https://zenodo.org/badge/725118680.svg)](https://zenodo.org/badge/latestdoi/725118680)
 
 To run the scripts, install the required packages with the following command:  
 ```
